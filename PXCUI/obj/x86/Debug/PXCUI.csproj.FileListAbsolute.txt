@@ -1,0 +1,10 @@
+D:\github\PXCUI\PXCUI\bin\x86\Debug\PXCUI.exe.config
+D:\github\PXCUI\PXCUI\bin\x86\Debug\PXCUI.exe
+D:\github\PXCUI\PXCUI\bin\x86\Debug\PXCUI.pdb
+D:\github\PXCUI\PXCUI\obj\x86\Debug\PXCUI.csprojResolveAssemblyReference.cache
+D:\github\PXCUI\PXCUI\obj\x86\Debug\PXCUI.Form1.resources
+D:\github\PXCUI\PXCUI\obj\x86\Debug\PXCUI.LTObj.ShowImageSocketData.resources
+D:\github\PXCUI\PXCUI\obj\x86\Debug\PXCUI.Properties.Resources.resources
+D:\github\PXCUI\PXCUI\obj\x86\Debug\PXCUI.csproj.GenerateResource.Cache
+D:\github\PXCUI\PXCUI\obj\x86\Debug\PXCUI.exe
+D:\github\PXCUI\PXCUI\obj\x86\Debug\PXCUI.pdb
