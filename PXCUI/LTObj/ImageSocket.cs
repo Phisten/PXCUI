@@ -392,7 +392,8 @@ namespace PlusObj
                         {
                             byte[] tmpAcceptData = new byte[EndIndex];
                             get = client.Receive(tmpAcceptData);
-                            Array.ConstrainedCopy(tmpAcceptData, 0, data, StartIndex, get); StartIndex += get;
+                            Array.ConstrainedCopy(tmpAcceptData, 0, data, StartIndex, get); 
+                            StartIndex += get;
                             EndIndex -= get;
                             if (get == 0)
                             {
@@ -416,6 +417,7 @@ namespace PlusObj
                 {
                     msg += "Server斷線(" + e.Message;
                     Console.WriteLine("ErrorDetect: Server斷線:" + e.Message);
+
                     Close();
                     return;
                 }
